@@ -18,3 +18,7 @@ print(lista)
 
 for valor in lista: 
     print(valor)
+
+
+lista.append(5)
+print(lista)
